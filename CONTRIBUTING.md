@@ -2,7 +2,7 @@
 
 Project has been done using [create-react-app](https://github.com/facebookincubator/create-react-app).
 
-* git clone https://github.com/pankajladhar/GFontsSpace.git
+* git clone https://github.com/paulrajgithub/GFontsSpace.git
 * npm install
 * npm start ( for starting application )
 * npm run test ( for running unit test )
